@@ -4,3 +4,4 @@ pandas
 mediapipe
 deepface
 tqdm
+fer
